@@ -130,9 +130,6 @@ h6 {
   #header #logo h1 {
     font-size: 26px;
   }
-  #header #logo img {
-    max-height: 40px;
-  }
 }
 
 #header.header-transparent {
@@ -156,14 +153,18 @@ h6 {
   background-size: cover;
   position: relative;
 }
+@media (max-width: 768px) {
+  #hero{
+    background: url(../img/BNW.jpg) center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: black;
+    
 
-@media (min-width: 1024px) {
-  #hero {
-    background-attachment: fixed;
-   
     
   }
 }
+
 
 #hero:before {
   content: "";
