@@ -1,4 +1,3 @@
-
 body {
   background: #fff;
   color: #666666;
@@ -151,24 +150,19 @@ h6 {
   height: 100vh;
   background: url(../img/BNW.jpg) top center;
   background-size: cover;
-  position: relative;
 }
 @media (max-width: 768px) {
-  #hero{
+  #hero {
     background: url(../img/BNW.jpg) center;
     background-size: contain;
     background-repeat: no-repeat;
     background-color: black;
-    
-
-    
   }
 }
 
-
 #hero:before {
   content: "";
-  
+
   position: absolute;
   bottom: 0;
   top: 0;
@@ -202,7 +196,6 @@ h6 {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
-    
   }
 }
 
@@ -217,7 +210,6 @@ h6 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
-    
   }
 }
 
@@ -231,15 +223,13 @@ h6 {
   padding: 8px 28px;
   border-radius: 50px;
   transition: 0.5s;
-  margin: 10px;
+  margin-top: 500px;
+  margin-left: 600px;
   border: 2px solid #fff;
   color: #fff;
+  background-color: black;
 }
 
-#hero .btn-get-started:hover {
-  background: black;
-  border: 2px solid black;
-}
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -516,14 +506,12 @@ section {
   color: #999;
 }
 
-
-
 /* About Us Section
 --------------------------------*/
 #about {
   padding: 170px 0;
-  background: black;
-  color: white;
+  background: white;
+  color: black;
   text-align: justify;
 }
 
@@ -583,8 +571,6 @@ section {
   line-height: 24px;
   font-size: 14px;
 }
-
-
 
 /* Services Section
 --------------------------------*/
@@ -661,8 +647,6 @@ section {
   line-height: 24px;
 }
 
-
-
 /* Contact Section
 --------------------------------*/
 #contact {
@@ -698,11 +682,11 @@ section {
 }
 
 #contact .social-links {
-  padding-bottom: 20px;
+  padding-bottom: 50px;
 }
 
 #contact .social-links a {
-  font-size: 18px;
+  font-size: 28px;
   display: inline-block;
   background: black;
   color: #fff;
@@ -729,10 +713,11 @@ section {
   border-radius: 20px;
 }
 
-#contact button[type="submit"]:hover {
-  background: black;
-  color: white;
+#contact img{
+  width: 60%;
+  height: 30%;
 }
+
 
 @-webkit-keyframes animate-loading {
   0% {
