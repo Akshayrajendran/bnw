@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Black and White Holidays. 
 
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+New Website 2021.
