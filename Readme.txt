@@ -1,3 +1,6 @@
-www.blackandwhiteholidays.com
-Designed by Akshay.R
-Contact-9790106372
+Thanks for downloading this template!
+
+Template Name: Gp
+Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
